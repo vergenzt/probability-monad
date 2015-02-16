@@ -3,3 +3,7 @@ target
 *.class
 .lib
 project/*.jar
+
+.project
+.classpath
+.settings/
